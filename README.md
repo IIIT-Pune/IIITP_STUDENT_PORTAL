@@ -1,4 +1,4 @@
-# IIITP_STUDENT_PORTAL
+# IIITPuneApp_Student_Portal
 
 ## The Student Portal Integration for the IIIT Pune App.
 
